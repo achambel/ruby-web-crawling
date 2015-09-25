@@ -1,11 +1,5 @@
 # put here your configurations
 race:
-  url:
-  dog_url:
-  cat_url:
-
-consulado:
-  url:
-  process:
-  username:
-  password:
+  url: http://www.guiaderacas.com.br
+  dog_url: cachorros/racas-de-cachorros
+  cat_url: gatos/racas
